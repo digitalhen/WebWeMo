@@ -1,0 +1,16 @@
+{
+	"switches": [
+		{
+			"id": "livingroom",
+			"ipaddress": "192.168.1.186",
+			"port": "49153",
+			"iconUrl": "icons/192.168.1.186.jpg"
+		},
+		{
+			"id": "bedroom",
+			"ipaddress": "192.168.1.56",
+			"port": "49153",
+			"iconUrl": "icons/192.168.1.56.jpg"
+		}
+	]
+}
